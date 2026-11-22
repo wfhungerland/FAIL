@@ -23,7 +23,7 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 | Estland unter 1,4 Mio. Einwohner | nur Suchtreffer | Statistikamt Estland: 1.360.745 am 01.01.2026 |
 | Estland mit den meisten Firmen ab 1 Mrd. $ Bewertung je Kopf in Europa, dreimal so viele wie Schweden | am Original, Wortlaut angepasst („$B+ companies“ statt „unicorns“) | Atomico (2024) S. 84: „Estonia has three times the number of $B+ companies per capita than Sweden, the next closest country.“ |
 | Versicherer und Einrichtungen der betrieblichen Altersversorgung legen rund 10,5 Bio. € an | am Original, Zahl geändert (vorher 12 Bio. € ohne Beleg) | EIOPA (2025) Annual Report 2024, S. 37: rund 8 Bio. € Versicherer, 2,5 Bio. € EbAV |
-| Subchapter V: bestätigter Plan etwa doppelt so oft, Monate früher | nur Suchtreffer, justice.gov gesperrt | U.S. Trustee Program (2025), Statistical Summary bis 31.12.2024: 52 % gegen 23–31 %, Median 6,6 gegen 10,4–10,8 Monate |
+| Subchapter V: bestätigter Plan etwa doppelt so oft, Monate früher | am Original | U.S. Trustee Program (2025), Chapter 11 Subchapter V Statistical Summary Through December 31, 2024, S. 1: Plan bestätigt 52 % (Subchapter V) gegen 23 % (übrige Kleinunternehmensfälle, Geschäftsjahre 2020 bis 2023); Median bis zur Bestätigung 6,6 gegen 10,4 Monate. „…approximately double the confirmed plan percentage … as well as a shorter time to confirmation.“ |
 | Schuldnerfreundliche Reformen des Privatinsolvenzrechts erhöhen Patente, vor allem bei Firmen ohne großen Patentbestand, und verschieben sie zu radikaler Innovation | am Original | Cumming, Morck, Rong und Zhang (2024), NBER WP 32826, Zusammenfassung und Einleitung (Befunde 3 und 4); 33 Länder ohne USA, 1990–2002. Achtung: Das Material vom 20.11.2026 nennt falsche Autoren („Cumming, Johan und Zhang“). |
 | Koordinierte Marktwirtschaften begünstigen inkrementelle Innovation | am Original | Dilli, Elert und Herrmann (2018) S. 295, 309 |
 | Zombie-Firmen binden Arbeit und Kapital | Zusammenfassung der Zeitschrift (RePEc) | Adalet McGowan, Andrews und Millot (2018) |
@@ -41,4 +41,3 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 ## Vor dem Versand prüfen
 
 1. CEPR-Seite der Reihe im Browser: Einreichadresse, Wortgrenze (1.000–1.500 Wörter ohne Literatur?), Format, Länge der Bio.
-2. Subchapter-V-Zahlen im PDF des U.S. Trustee Program.
