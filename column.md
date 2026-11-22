@@ -20,7 +20,7 @@ Three institutions decide how an economy handles failure, and they move together
 
 Europe has already moved on the most visible part. Under a 2019 EU directive, transposition due in 2021-2022, member states must allow insolvent entrepreneurs to obtain a full discharge within three years, and the old archetype of long, conditional discharge has largely gone (European Parliament and Council 2019). The binding constraints now lie elsewhere: whether a discharged founder regains credit in months or carries a years-long mark, whether national savings reach risk capital, and whether a viable firm can be reorganised rather than liquidated.
 
-Estonia illustrates the gain — an example of the mechanism, not proof of it. After Skype was built in Tallinn and sold, its alumni recycled capital and expertise into a dense run of new ventures: early Skype staff and founders started Wise and Starship and were among the first backers of Pipedrive and Bolt. A country of fewer than 1.4 million people now counts more start-up unicorns per head than almost any other in Europe (Atomico 2024).
+Estonia illustrates the gain — an example of the mechanism, not proof of it. After Skype was built in Tallinn and sold, its alumni recycled capital and expertise into a dense run of new ventures: early Skype staff and founders started Wise and Starship and were among the first backers of Pipedrive and Bolt. A country of fewer than 1.4 million people now has more tech companies valued at $1 billion or more per head than any other in Europe — three times as many as Sweden, the runner-up (Atomico 2024).
 
 ## Forgiveness is not subsidy
 

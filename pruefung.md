@@ -8,7 +8,7 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 |---|---|---|
 | EU-Haushalte sparten 2022 1.390 Mrd. €, USA 840 Mrd. € | am Original | Draghi (2024) Teil A, S. 63: „In 2022, EU household savings were EUR 1,390 billion compared with EUR 840 billion in the US.“ |
 | 5 % der weltweit eingesammelten VC-Fonds in der EU, 52 % in den USA | am Original, Wortlaut angepasst (Fondseinwerbung, nicht Investition) | Draghi (2024) Teil A, S. 29: „The share of global VC funds raised in the EU is just 5%, compared to 52% in the US and 40% in China.“ |
-| Europäische Pensionsfonds: rund 0,01 % des Vermögens in europäische VC-Fonds | **offen**: Atomico-PDF (26 MB) nicht auslesbar | Atomico (2024); Seitenzahl im eigenen PDF prüfen: `/###_Schreibtisch/Bibliothek/_Eingang/soet2024_report.pdf`, Suchwort „0.01%“ |
+| Europäische Pensionsfonds: rund 0,01 % des Vermögens in europäische VC-Fonds | am Original | Atomico (2024) S. 44: „European pension funds … currently invest just 0.01% of capital into european venture - a rounding error for the $9 trillion of assets they are managing.“ |
 | 1 von 5 jungen führenden Innovatoren in der EU, über die Hälfte in den USA | am Original | Veugelers und Cincera (2010) S. 3: „Only one out of every five leading innovators based in the EU is 'young'. This compares to more than half in the US.“ |
 | 7 % gegen 35 % der FuE-Ausgaben | am Original | ebd. S. 3: „a mere seven percent, versus 35 percent in the US“ |
 | „jung“ heißt gegründet nach 1975, keine Start-ups; Daten 2007 | am Original | ebd. S. 2 und Kasten 1 (Scoreboard 2008, FuE-Daten 2007) |
@@ -21,7 +21,7 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 | EuGH-Urteil 2023 zur Speicherdauer von Restschuldbefreiungsdaten | am Original (EUR-Lex) | EuGH, 07.12.2023, verb. Rs. C-26/22 und C-64/22, UF und AB gegen Land Hessen, Tenor Nr. 2 |
 | Skype-Umfeld: Wise und Starship gegründet, Pipedrive und Bolt früh finanziert | nur Suchtreffer | Wise: Taavet Hinrikus; Starship: Ahti Heinla, Janus Friis; Pipedrive und Bolt: Skype-Leute als frühe Business Angels |
 | Estland unter 1,4 Mio. Einwohner | nur Suchtreffer | Statistikamt Estland: 1.360.745 am 01.01.2026 |
-| Estland mit den meisten Unicorns je Kopf in Europa | **offen** | Atomico (2024) im eigenen PDF prüfen; sonst Atomico (2022) zitieren |
+| Estland mit den meisten Firmen ab 1 Mrd. $ Bewertung je Kopf in Europa, dreimal so viele wie Schweden | am Original, Wortlaut angepasst („$B+ companies“ statt „unicorns“) | Atomico (2024) S. 84: „Estonia has three times the number of $B+ companies per capita than Sweden, the next closest country.“ |
 | Versicherer und Einrichtungen der betrieblichen Altersversorgung legen rund 10,5 Bio. € an | am Original, Zahl geändert (vorher 12 Bio. € ohne Beleg) | EIOPA (2025) Annual Report 2024, S. 37: rund 8 Bio. € Versicherer, 2,5 Bio. € EbAV |
 | Subchapter V: bestätigter Plan etwa doppelt so oft, Monate früher | nur Suchtreffer, justice.gov gesperrt | U.S. Trustee Program (2025), Statistical Summary bis 31.12.2024: 52 % gegen 23–31 %, Median 6,6 gegen 10,4–10,8 Monate |
 | Schuldnerfreundliche Reformen des Privatinsolvenzrechts erhöhen Patente, vor allem bei Firmen ohne großen Patentbestand, und verschieben sie zu radikaler Innovation | am Original | Cumming, Morck, Rong und Zhang (2024), NBER WP 32826, Zusammenfassung und Einleitung (Befunde 3 und 4); 33 Länder ohne USA, 1990–2002. Achtung: Das Material vom 20.11.2026 nennt falsche Autoren („Cumming, Johan und Zhang“). |
@@ -40,6 +40,5 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 
 ## Vor dem Versand prüfen
 
-1. Atomico-PDF: 0,01 % und Unicorns je Kopf in Estland, je mit Seitenzahl.
-2. CEPR-Seite der Reihe im Browser: Einreichadresse, Wortgrenze (1.000–1.500 Wörter ohne Literatur?), Format, Länge der Bio.
-3. Subchapter-V-Zahlen im PDF des U.S. Trustee Program.
+1. CEPR-Seite der Reihe im Browser: Einreichadresse, Wortgrenze (1.000–1.500 Wörter ohne Literatur?), Format, Länge der Bio.
+2. Subchapter-V-Zahlen im PDF des U.S. Trustee Program.
