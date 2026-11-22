@@ -24,6 +24,7 @@ Stand 19.11.2026. Grundlage ist die Fassung v15 vom 11.07.2026 (Dropbox `/###_Sc
 | Estland mit den meisten Unicorns je Kopf in Europa | **offen** | Atomico (2024) im eigenen PDF prüfen; sonst Atomico (2022) zitieren |
 | Versicherer und Einrichtungen der betrieblichen Altersversorgung legen rund 10,5 Bio. € an | am Original, Zahl geändert (vorher 12 Bio. € ohne Beleg) | EIOPA (2025) Annual Report 2024, S. 37: rund 8 Bio. € Versicherer, 2,5 Bio. € EbAV |
 | Subchapter V: bestätigter Plan etwa doppelt so oft, Monate früher | nur Suchtreffer, justice.gov gesperrt | U.S. Trustee Program (2025), Statistical Summary bis 31.12.2024: 52 % gegen 23–31 %, Median 6,6 gegen 10,4–10,8 Monate |
+| Schuldnerfreundliche Reformen des Privatinsolvenzrechts erhöhen Patente, vor allem bei Firmen ohne großen Patentbestand, und verschieben sie zu radikaler Innovation | am Original | Cumming, Morck, Rong und Zhang (2024), NBER WP 32826, Zusammenfassung und Einleitung (Befunde 3 und 4); 33 Länder ohne USA, 1990–2002. Achtung: Das Material vom 20.11.2026 nennt falsche Autoren („Cumming, Johan und Zhang“). |
 | Koordinierte Marktwirtschaften begünstigen inkrementelle Innovation | am Original | Dilli, Elert und Herrmann (2018) S. 295, 309 |
 | Zombie-Firmen binden Arbeit und Kapital | Zusammenfassung der Zeitschrift (RePEc) | Adalet McGowan, Andrews und Millot (2018) |
 | Reihenfolge der Grundfreiheiten | Vertragstext | Art. 26 Abs. 2 AEUV: „goods, persons, services and capital“ |
